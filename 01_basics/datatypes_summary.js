@@ -41,7 +41,7 @@ const MyObj = {
 
 let myFuctions = function(){
     // console.log("hello World");
-}
+} // function
 
 console.log(typeof name);
 console.log(typeof score);
